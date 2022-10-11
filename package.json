@@ -1,0 +1,16 @@
+{
+  "name": "langhunt-api",
+  "version": "1.0.0",
+  "description": "Language Hunter",
+  "main": "./src/main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon index.js"
+  },
+  "author": "omegaui",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2",
+    "nodemon": "^2.0.20"
+  }
+}

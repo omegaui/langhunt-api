@@ -1,0 +1,66 @@
+{
+    "_id": {
+        "$oid": "6342ac7a13308ab87f39488c"
+    },
+    "languages": [
+        "Java",
+        "Python",
+        "Ruby",
+        "JavaScript",
+        "Dart"
+    ],
+    "java": {
+        "icon": "https://www.vectorlogo.zone/logos/java/java-icon.svg",
+        "description": "Java is a programming language and computing platform first released by Sun Microsystems in 1995. It has evolved from humble beginnings to power a large share of today's digital world, by providing the reliable platform upon which many services and applications are built",
+        "latest-version": "19",
+        "latest-lts": "17",
+        "homepage": "https://www.java.com",
+        "platformIndependent": true,
+        "level": "high-level",
+        "programming-model": "OOPs",
+        "world-wide-pypl-index": 2,
+        "author": "James Gosling",
+        "release-date": "May 23, 1995",
+        "typing-discipline": "static, strong, safe, nominative, manifest",
+        "versions": [
+            "8u333",
+            "9.0.4",
+            "10.0.2",
+            "11.0.16",
+            "12.0.2",
+            "13.0.2",
+            "14.0.2",
+            "15.0.2",
+            "16.0.2",
+            "17.0.4.1",
+            "18.0.2.1",
+            "19"
+        ],
+        "categories" : [
+            "command line programs",
+            "graphical user interface",
+            "machine learning",
+            "desktop app development",
+            "android app development",
+            "application programming interface development (APIs)",
+            "web development",
+            "data centres",
+            "game consoles",
+            "big data",
+            "internet of things",
+            "database integrations"
+        ],
+        "ides": [
+            "IntelliJ IDEA",
+            "Eclipse IDE",
+            "BlueJ",
+            "NetBeans",
+            "JDeveloper",
+            "DrJava",
+            "Greenfoot",
+            "JGrasp",
+            "Android Studio",
+            "JCreator"
+        ]
+    }
+}
