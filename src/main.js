@@ -16,6 +16,7 @@ function initAPI(){
     handleGetRequests(app);
     app.listen(
         3000,
+        "omegaui.github.io/langhunt-api",
         () => {
             console.log('🚀 Ready: API Listening on https://localhost:3000/v1')
         }
